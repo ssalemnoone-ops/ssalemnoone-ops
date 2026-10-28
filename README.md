@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sina
 
-<!--
-**ssalemnoone-ops/ssalemnoone-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in AI and quantitative finance, and I'm building my programming foundations through hands-on projects in Python and C.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [Tideman Ranked-Pairs Voting](https://github.com/ssalemnoone-ops/Tideman) | Pairwise comparisons, directed graphs, sorting, and recursive cycle detection in C |
+| [Coin Toss with Session Statistics](https://github.com/ssalemnoone-ops/CoinFlip-Project2) | Random simulation, outcome tracking, and an interactive Streamlit interface |
+| [YouTube Embed URL Extractor](https://github.com/ssalemnoone-ops/YouTube_URL) | Regular expressions and a focused Python command-line utility |
+
+## Tools used in these projects
+
+Python · C · Streamlit · GitHub
+
+## Direction
+
+My interests include applying programming, probability, and data analysis to AI and financial problems. These repositories document my current learning and implementation work.
